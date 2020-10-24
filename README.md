@@ -1,2 +1,2 @@
 # Hangman
-Hangman game with popular English movies
+Hangman game with popular Hollywood movies
